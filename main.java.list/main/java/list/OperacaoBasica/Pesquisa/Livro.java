@@ -1,8 +1,4 @@
-package main.java.list.Pesquisa;
-
-import java.util.ArrayList;
-
-import java.util.List;
+package main.java.list.OperacaoBasica.Pesquisa;
 
 public class Livro {
         private String titulo;
